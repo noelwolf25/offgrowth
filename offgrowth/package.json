@@ -1,0 +1,28 @@
+{
+  "name": "offgrowth",
+  "version": "0.1.0",
+  "description": "Growth skills for product teams. Structured prompts and frameworks for auditing friction, onboarding, activation, retention, and more.",
+  "keywords": [
+    "growth",
+    "product",
+    "ux",
+    "prompts",
+    "ai",
+    "audit",
+    "friction",
+    "onboarding",
+    "retention"
+  ],
+  "author": "Noel Wolf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelwolf25/offgrowth.git"
+  },
+  "main": "index.js",
+  "files": [
+    "skills/",
+    "index.js",
+    "README.md"
+  ]
+}
